@@ -1,10 +1,27 @@
-# CSS I - Template de Prática
-**Vamos utilizar esse repositório para as práticas da aula!**
+# CSS I
+## Exercício 1
+![](./media/1.png)
 
-## Instruções para baixar
+## Exercício 2
+![](./media/2.png)
+```
+<body>
+   <span class="longe-bordas">Quero ficar mais longe das bordas</span>
 
-1. Faça o fork desse repositório.
-2. No repositório com seu nome de usuário, copie a url.
-3. Abra a pasta onde você guarda os materiais do curso pelo terminal.
-4. Baixe o repositório usando: git clone url-copiada.
-5. Abra a pasta no vscode. Vamos codar!
+   <span class="afastado">Quero ficar mais longe dos outros elementos</span>
+
+   <p class="alto">Quero ser mais alto, com uns 300px</p>
+
+   <p class="largo">Quero ter 500px de largura</p>
+
+   <span class="bordado">Quero ter uma borda legal, preta com um pixel de largura</span>
+
+   <span class="sumido">Quero ficar invisível!</span>
+</body>
+```
+
+## Exercício 3
+![](./media/3.png)
+
+## Exercício de Fixação
+![](./media/4.png)
